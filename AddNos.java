@@ -7,7 +7,8 @@ class SumNos
         int a,b;
         a=Integer.parseInt(args[0]);
         b=Integer.parseInt(args[1]);
-        System.out.println("Sum is  "+ (args[0]+args[1]));
+        System.out.println("Sum is  "+ (args[0]+args[1]))
+        System.out.println("Neelesh made changes");
         
     }
 }
